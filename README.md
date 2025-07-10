@@ -73,8 +73,6 @@
 > An advanced transcription system that converts audio and video speech into accurate text using OpenAI’s Whisper Large V3 model via Hugging Face. Supports multiple media formats and uses audio processing tools for high-quality results.
 [🔗 View Project](https://myousafrana-audio-video-transcription.hf.space/docs)
 
-> *(Pin these to your GitHub profile for visibility!)*
-
 ---
 
 ### 🛠️ Languages & Tools

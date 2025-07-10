@@ -47,9 +47,19 @@
 
 ### 📂 Featured Projects
 
+#### 🤖 MLOps-Driven Deployment of GPT-2 Sentence Completion on Azure with CI/CD
+> 🚀 A comprehensive **MLOps** project implementing a **CI/CD pipeline** to deploy a sentence completion model using **GPT-2** from Hugging Face.  
+> ☁️ Leverages **Azure**, **Docker**, and **container registries** for scalable, production-grade NLP solutions.  
+[🔗 View Project](https://github.com/Muhammadyousafrana/huggingface-azure-acr)
+
+#### 🧬 SkimLit – Biomedical Abstract Sentence Classifier
+> 🧠 An **NLP-powered classifier** that categorizes biomedical abstract sentences into **Objective**, **Methods**, **Results**, **Background**, and **Conclusion**.  
+> 📚 Designed to help researchers **quickly skim** through biomedical literature using structured outputs.  
+[🔗 View Project](https://www.kaggle.com/code/josephengineer112/pub-med-rct-summary)
+
 #### 📰 Fake News Detection (TF-IDF + CNN)
 > Debiased dataset → TF-IDF + MultinomialNB → Enhanced with CNN for NLP tasks.
-[🔗 View Project](https://github.com/Muhammadyousafrana/fake-news-detection)
+[🔗 View Project](https://colab.research.google.com/drive/1VmC5n7aAd1Kq_SacJsYg3hBx6MjNTxET?usp=sharing)
 
 #### 🧾 Wikipedia NLP CLI Tool
 > Built with Python Fire to extract and summarize Wikipedia data via command-line.
@@ -57,11 +67,11 @@
 
 #### 🧠 EEG Signal Processing
 > Used PyTorchEEG on DREAMERDataset; converted to ONNX for fast real-time execution.
-[🔗 View Project](https://github.com/Muhammadyousafrana/eeg-signal-processing)
+[🔗 View Project](https://colab.research.google.com/drive/1QYzbt_zX_pZO2LWkt_aumfYf9Maqb8Rn?usp=sharing)
 
-#### 🎥 Video Summarization App (LLaVA + Whisper)
-> Multimodal summarizer using LLaVA-Next-Video-7B and Whisper Large V3.
-[🔗 View Project](https://github.com/Muhammadyousafrana/video-summarizer)
+#### 🎥 Audio & Video Transcription
+> An advanced transcription system that converts audio and video speech into accurate text using OpenAI’s Whisper Large V3 model via Hugging Face. Supports multiple media formats and uses audio processing tools for high-quality results.
+[🔗 View Project](https://myousafrana-audio-video-transcription.hf.space/docs)
 
 > *(Pin these to your GitHub profile for visibility!)*
 

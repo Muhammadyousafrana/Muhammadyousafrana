@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7KpQ2E5U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/7rhnk4en1p5c4k1h9a1q.gif" alt="AI Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1000&q=80" alt="AI Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MUHAMMAD YOUSAF RANA</h1>

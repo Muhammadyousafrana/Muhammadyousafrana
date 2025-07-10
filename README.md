@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=MUHAMMAD%20YOUSAF%20RANA&fontSize=60&fontAlignY=35&desc=Machine%20Learning%20Engineer%20•%20Developer%20•%20Researcher&descAlign=50&descAlignY=55&animation=twinkling" width="100%"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm MUHAMMAD YOUSAF RANA</h1>
 
 <p align="center">
@@ -21,7 +25,9 @@
 - 📫 Reach me anytime: **yousaf.mlengineer@gmail.com**
 - 🌐 Portfolio: [yousafrana.me](https://yousafrana.me/)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🚀 GitHub Stats
 
@@ -31,9 +37,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyousafrana&layout=compact&theme=github_dark" />
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🏆 Achievements & Highlights
+
+<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
 
 - 📌 20+ ML/DL and Full-Stack Projects
 - 🧪 Researcher: PubMed RCT Summarization using Biomedical Embeddings
@@ -43,9 +53,13 @@
 - 🌍 Member of a professional AI team (ML Engineers, Python & App Devs)
 - 💼 Open to collaborations, freelance, and AI startup opportunities
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 📂 Featured Projects
+
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
 
 #### 🤖 MLOps-Driven Deployment of GPT-2 Sentence Completion on Azure with CI/CD
 > 🚀 A comprehensive **MLOps** project implementing a **CI/CD pipeline** to deploy a sentence completion model using **GPT-2** from Hugging Face.  
@@ -73,29 +87,41 @@
 > An advanced transcription system that converts audio and video speech into accurate text using OpenAI’s Whisper Large V3 model via Hugging Face. Supports multiple media formats and uses audio processing tools for high-quality results.
 [🔗 View Project](https://myousafrana-audio-video-transcription.hf.space/docs)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=huggingface)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,git,github,linux,vscode,jupyter,flask,fastapi,mysql,postgres,mongodb,redis,aws,azure,gcp,kubernetes,nodejs,react,html,css,js" />
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 
 ### 🌐 Connect with Me
 
-<a href="mailto:yousaf.mlengineer@gmail.com">📩 Email</a> • 
-<a href="https://yousafrana.me/">🌍 Website</a> • 
-<a href="https://github.com/Muhammadyousafrana">💻 GitHub</a> • 
-<a href="https://www.linkedin.com/in/muhammad-yousaf-rana-a96637234/">🔗 LinkedIn</a>
+<div align="center">
+  <a href="mailto:yousaf.mlengineer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://yousafrana.me/">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://github.com/Muhammadyousafrana">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-yousaf-rana-a96637234/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <p align="center">
   <strong>Let's build something great together!</strong><br/>

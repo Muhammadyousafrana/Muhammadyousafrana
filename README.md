@@ -41,7 +41,7 @@
 
 ### 🏆 Achievements & Highlights
 
-<img align="right" src="https://media.giphy.com/media/3orieTqkD6zZh1h1O0/giphy.gif" width="200">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ4c3J2cmNwYjEycmp5b2w3ZXN4bTU4d2Jqejg2a3Zwd3U5ZnRrNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="200">
 
 - 📌 20+ ML/DL and Full-Stack Projects  
 - 🧪 Researcher: PubMed RCT Summarization using Biomedical Embeddings  

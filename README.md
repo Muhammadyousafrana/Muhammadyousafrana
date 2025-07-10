@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7KpQ2E5U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/7rhnk4en1p5c4k1h9a1q.gif" alt="AI Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm MUHAMMAD YOUSAF RANA</h1>
 
 <p align="center">
@@ -9,17 +14,18 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+<!-- About Me GIF -->
+<img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250">
 
 ### 👨‍💻 About Me
 
-- 🎓 Software Engineering graduate from UET Taxila
-- 💼 Currently seeking opportunities in Software Engineering / Machine Learning
-- 🧠 Interests: Machine Learning • Deep Learning • NLP • Computer Vision
-- 🚀 Building: Real-world AI applications, model deployment systems & cool dashboards
-- 🛠️ Tools I Use Daily: Python, TensorFlow, PyTorch, FastAPI, Docker, Wandb
-- 📫 Reach me anytime: **yousaf.mlengineer@gmail.com**
-- 🌐 Portfolio: [yousafrana.me](https://yousafrana.me/)
+- 🎓 Software Engineering graduate from UET Taxila  
+- 💼 Currently seeking opportunities in Software Engineering / Machine Learning  
+- 🧠 Interests: Machine Learning • Deep Learning • NLP • Computer Vision  
+- 🚀 Building: Real-world AI applications, model deployment systems & cool dashboards  
+- 🛠️ Tools I Use Daily: Python, TensorFlow, PyTorch, FastAPI, Docker, Wandb  
+- 📫 Reach me anytime: **yousaf.mlengineer@gmail.com**  
+- 🌐 Portfolio: [yousafrana.me](https://yousafrana.me/)  
 
 ---
 
@@ -35,17 +41,24 @@
 
 ### 🏆 Achievements & Highlights
 
-- 📌 20+ ML/DL and Full-Stack Projects
-- 🧪 Researcher: PubMed RCT Summarization using Biomedical Embeddings
-- 🤖 Built Summedify – a media summarization app (text, audio, video, docs)
-- 🧠 Trained & Deployed models like Whisper, ResNet, TinyLLaMA, Phi-2, Food101, etc.
-- 🧩 Expertise in LoRA, ONNX, Hugging Face, .nemo, .gguf formats
-- 🌍 Member of a professional AI team (ML Engineers, Python & App Devs)
-- 💼 Open to collaborations, freelance, and AI startup opportunities
+<img align="right" src="https://media.giphy.com/media/3orieTqkD6zZh1h1O0/giphy.gif" width="200">
+
+- 📌 20+ ML/DL and Full-Stack Projects  
+- 🧪 Researcher: PubMed RCT Summarization using Biomedical Embeddings  
+- 🤖 Built Summedify – a media summarization app (text, audio, video, docs)  
+- 🧠 Trained & Deployed models like Whisper, ResNet, TinyLLaMA, Phi-2, Food101, etc.  
+- 🧩 Expertise in LoRA, ONNX, Hugging Face, .nemo, .gguf formats  
+- 🌍 Member of a professional AI team (ML Engineers, Python & App Devs)  
+- 💼 Open to collaborations, freelance, and AI startup opportunities  
 
 ---
 
 ### 📂 Featured Projects
+
+<!-- Add a relevant GIF for projects -->
+<p align="right">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200">
+</p>
 
 #### 🤖 MLOps-Driven Deployment of GPT-2 Sentence Completion on Azure with CI/CD
 > 🚀 A comprehensive **MLOps** project implementing a **CI/CD pipeline** to deploy a sentence completion model using **GPT-2** from Hugging Face.  
@@ -58,46 +71,44 @@
 [🔗 View Project](https://www.kaggle.com/code/josephengineer112/pub-med-rct-summary)
 
 #### 📰 Fake News Detection (TF-IDF + CNN)
-> Debiased dataset → TF-IDF + MultinomialNB → Enhanced with CNN for NLP tasks.
+> Debiased dataset → TF-IDF + MultinomialNB → Enhanced with CNN for NLP tasks.  
 [🔗 View Project](https://colab.research.google.com/drive/1VmC5n7aAd1Kq_SacJsYg3hBx6MjNTxET?usp=sharing)
 
 #### 🧾 Wikipedia NLP CLI Tool
-> Built with Python Fire to extract and summarize Wikipedia data via command-line.
+> Built with Python Fire to extract and summarize Wikipedia data via command-line.  
 [🔗 View Project](https://github.com/Muhammadyousafrana/NLP_project_with_python_Fire)
 
 #### 🧠 EEG Signal Processing
-> Used PyTorchEEG on DREAMERDataset; converted to ONNX for fast real-time execution.
+> Used PyTorchEEG on DREAMERDataset; converted to ONNX for fast real-time execution.  
 [🔗 View Project](https://colab.research.google.com/drive/1QYzbt_zX_pZO2LWkt_aumfYf9Maqb8Rn?usp=sharing)
 
 #### 🎥 Audio & Video Transcription
-> An advanced transcription system that converts audio and video speech into accurate text using OpenAI’s Whisper Large V3 model via Hugging Face. Supports multiple media formats and uses audio processing tools for high-quality results.
+> An advanced transcription system that converts audio and video speech into accurate text using OpenAI’s Whisper Large V3 model via Hugging Face. Supports multiple media formats and uses audio splitting for high accuracy.  
 [🔗 View Project](https://myousafrana-audio-video-transcription.hf.space/docs)
 
 ---
 
 ### 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=huggingface)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,fastapi,streamlit,huggingface" />
+</p>
 
 ---
 
-
 ### 🌐 Connect with Me
 
-<a href="mailto:yousaf.mlengineer@gmail.com">📩 Email</a> • 
-<a href="https://yousafrana.me/">🌍 Website</a> • 
-<a href="https://github.com/Muhammadyousafrana">💻 GitHub</a> • 
-<a href="https://www.linkedin.com/in/muhammad-yousaf-rana-a96637234/">🔗 LinkedIn</a>
+<p align="center">
+  <a href="mailto:yousaf.mlengineer@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" height="40"/></a>
+  <a href="https://yousafrana.me/"><img src="https://img.icons8.com/color/48/000000/domain.png" height="40"/></a>
+  <a href="https://github.com/Muhammadyousafrana"><img src="https://img.icons8.com/material-rounded/48/000000/github.png" height="40"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-yousaf-rana-a96637234/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40"/></a>
+</p>
 
 ---
 
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
   <strong>Let's build something great together!</strong><br/>
   <em>“Code with purpose. Deploy with confidence. Learn endlessly.”</em>
 </p>

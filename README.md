@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammadyousafrana&show_icons=true&theme=github_dark" />
-  [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammadyousafrana&theme=github-dark-blue)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Muhammadyousafrana&theme=github-compact)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyousafrana&layout=compact&theme=github_dark" />
 </p>
 

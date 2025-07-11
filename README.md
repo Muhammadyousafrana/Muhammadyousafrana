@@ -1,9 +1,8 @@
-<!-- Banner -->
+<!-- Banner with Typing Animation -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1000&q=80" alt="AI Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+MUHAMMAD+YOUSAF+RANA" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm MUHAMMAD YOUSAF RANA</h1>
 
 <p align="center">
   <a href="https://github.com/Muhammadyousafrana"><img src="https://img.shields.io/github/followers/Muhammadyousafrana?label=Follow&style=social"></a>

@@ -76,9 +76,8 @@
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)  
 > ![Whisper](https://img.shields.io/badge/Whisper-LargeV3-blue?style=flat)  
 > ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=flat&logo=python)  
-> ![Streamlit](https://img.shields.io/badge/Streamlit-app-red?style=flat&logo=streamlit)
 
-[🔗 View Project](https://myousafrana-audio-video-transcription.hf.space/docs)
+[🔗 View Project](https://summedify.com)
 
 ---
 
@@ -91,6 +90,20 @@
 > ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?style=flat&logo=githubactions)
 
 [🔗 View Project](https://github.com/Muhammadyousafrana/huggingface-azure-acr)
+
+---
+
+#### 🎥 Audio & Video Transcription  
+> An advanced transcription system that converts audio and video speech into accurate text using OpenAI’s Whisper Large V3 model via Hugging Face.  
+> 🧠 Supports multiple media formats and uses audio splitting for high accuracy.  
+> 🛠️ **Tech Stack:**  
+> ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)  
+> ![Whisper](https://img.shields.io/badge/Whisper-LargeV3-blue?style=flat)  
+> ![Hugging Face](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat&logo=huggingface)  
+> ![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?style=flat&logo=streamlit)  
+> ![FFmpeg](https://img.shields.io/badge/FFmpeg-AudioSplitter-green?style=flat)
+
+[🔗 View Project](https://myousafrana-audio-video-transcription.hf.space/docs)
 
 ---
 

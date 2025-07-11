@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammadyousafrana&show_icons=true&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=Muhammadyousafrana&theme=github-dark-blue" />
+  <img src="https://img.shields.io/github/commit-activity/m/Muhammadyousafrana/Muhammadyousafrana?color=blue&label=Commit%20activity" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyousafrana&layout=compact&theme=github_dark" />
 </p>
 

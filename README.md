@@ -65,9 +65,11 @@
 
 ### 📂 Featured Projects
 
-<p align="right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200">
+<p align="center">
+  <img src="./6f0eed8c-a76f-4894-b9cd-6c5067e4b0bc.png" alt="Projects Banner" width="80%" />
 </p>
+
+---
 
 #### 🧠 Summedify – Audio, Video, Text & Document Summarization
 > 🎥 A multi-modal summarizer built using Whisper V3, Transformers & Streamlit.  

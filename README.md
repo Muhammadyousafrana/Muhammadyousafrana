@@ -44,11 +44,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%26%20deeplearning.ai-blue?style=flat-square&logo=Coursera" />
-  <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-deeplearning.ai-green?style=flat-square&logo=Coursera" />
-  <img src="https://img.shields.io/badge/MLOps%20Specialization-Duke%20University-purple?style=flat-square&logo=Coursera" />
-</p>
+### 🎓 Certifications
+<p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%26%20deeplearning.ai-blue?style=flat-square&logo=Coursera" /> <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-deeplearning.ai-green?style=flat-square&logo=Coursera" /> <img src="https://img.shields.io/badge/MLOps%20Specialization-Duke%20University-purple?style=flat-square&logo=Coursera" /> </p> <ul> <li>📘 <strong>Machine Learning Specialization</strong> – Offered by <em>Stanford University</em> and <em>deeplearning.ai</em>, taught by <strong>Andrew Ng</strong>. Covers foundational ML algorithms, model evaluation, and deployment practices.</li> <li>🧠 <strong>Deep Learning Specialization</strong> – A 5-course series by <em>deeplearning.ai</em>, focused on Neural Networks, CNNs, RNNs, and NLP, also led by <strong>Andrew Ng</strong>.</li> <li>🔧 <strong>MLOps Specialization</strong> – From <em>Duke University</em>. Focuses on the full ML lifecycle: data versioning, model deployment, CI/CD, and monitoring in production.</li> </ul>
 
 ---
 

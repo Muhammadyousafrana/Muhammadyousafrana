@@ -38,14 +38,16 @@
 </p>
 
 ---
+
 ### 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Muhammadyousafrana&theme=darkhub&margin-w=15&no-frame=true" /> </p>
 
 ---
-### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammadyousafrana&theme=darkhub&margin-w=15&no-frame=true" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%26%20deeplearning.ai-blue?style=flat-square&logo=Coursera" />
+  <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-deeplearning.ai-green?style=flat-square&logo=Coursera" />
+  <img src="https://img.shields.io/badge/MLOps%20Specialization-Duke%20University-purple?style=flat-square&logo=Coursera" />
 </p>
 
 ---

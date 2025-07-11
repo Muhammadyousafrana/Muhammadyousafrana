@@ -65,9 +65,7 @@
 
 ### 📂 Featured Projects
 
-<p align="center">
-  <img src="./6f0eed8c-a76f-4894-b9cd-6c5067e4b0bc.png" alt="Projects Banner" width="80%" />
-</p>
+<p align="center"> <img src="https://images.unsplash.com/photo-1600267165785-92ab9c8e7d74?auto=format&fit=crop&w=1000&q=80" alt="Featured Projects Banner" width="80%" /> </p>
 
 ---
 

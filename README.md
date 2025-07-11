@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammadyousafrana&show_icons=true&theme=github_dark" />
-  <img src="https://metrics.lecoq.io/Muhammadyousafrana?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKarachi" />
+  <img src="https://github.com/Muhammadyousafrana/Muhammadyousafrana/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyousafrana&layout=compact&theme=github_dark" />
 </p>
 

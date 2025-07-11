@@ -66,7 +66,7 @@
 ### 📂 Featured Projects
 
 <p align="right">
-  <img src="https://images.unsplash.com/photo-1600267165785-92ab9c8e7d74?auto=format&fit=crop&w=1000&q=80" alt="Featured Projects" width="250" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Featured Projects" width="250" />
 </p>
 
 #### 🧠 Summedify – Audio, Video, Text & Document Summarization  

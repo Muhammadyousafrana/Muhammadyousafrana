@@ -65,35 +65,75 @@
 
 ### 📂 Featured Projects
 
-<p align="center"> <img src="https://images.unsplash.com/photo-1600267165785-92ab9c8e7d74?auto=format&fit=crop&w=1000&q=80" alt="Featured Projects Banner" width="80%" /> </p>
+<p align="right">
+  <img src="https://images.unsplash.com/photo-1600267165785-92ab9c8e7d74?auto=format&fit=crop&w=1000&q=80" alt="Featured Projects" width="250" />
+</p>
+
+#### 🧠 Summedify – Audio, Video, Text & Document Summarization  
+> 🎥 A multi-modal summarizer built using Whisper V3, Transformers & Streamlit.  
+> 🔗 Converts speech or documents to summarized text in seconds.  
+> 🛠️ **Tech Stack:**  
+> ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)  
+> ![Whisper](https://img.shields.io/badge/Whisper-LargeV3-blue?style=flat)  
+> ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=flat&logo=python)  
+> ![Streamlit](https://img.shields.io/badge/Streamlit-app-red?style=flat&logo=streamlit)
+
+[🔗 View Project](https://myousafrana-audio-video-transcription.hf.space/docs)
 
 ---
 
-#### 🧠 Summedify – Audio, Video, Text & Document Summarization
-> 🎥 A multi-modal summarizer built using Whisper V3, Transformers & Streamlit.  
-> 🔗 Converts speech or documents to summarized text in seconds.  
-[🔗 View Project](https://myousafrana-audio-video-transcription.hf.space/docs)
-
-#### 🤖 MLOps-Driven Deployment of GPT-2 Sentence Completion
+#### 🤖 MLOps-Driven Deployment of GPT-2 Sentence Completion  
 > 🔧 Deployed GPT-2 on Azure with full MLOps pipeline using Docker & CI/CD.  
 > ☁️ Hugging Face Transformers + Azure Container Registry = production-grade NLP.  
+> 🛠️ **Tech Stack:**  
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+> ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
+> ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?style=flat&logo=githubactions)
+
 [🔗 View Project](https://github.com/Muhammadyousafrana/huggingface-azure-acr)
 
-#### 🧬 SkimLit – Biomedical Abstract Sentence Classifier
+---
+
+#### 🧬 SkimLit – Biomedical Abstract Sentence Classifier  
 > 🧠 Classifies biomedical sentences into Objective, Methods, Results, etc.  
 > 📚 Helps researchers skim abstracts faster using NLP & Hugging Face.  
+> 🛠️ **Tech Stack:**  
+> ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)  
+> ![Hugging Face](https://img.shields.io/badge/HuggingFace-NLP-yellow?style=flat&logo=huggingface)  
+> ![Colab](https://img.shields.io/badge/Colab-Research-orange?style=flat&logo=googlecolab)
+
 [🔗 View Project](https://www.kaggle.com/code/josephengineer112/pub-med-rct-summary)
 
-#### 📰 Fake News Detection (TF-IDF + CNN)
+---
+
+#### 📰 Fake News Detection (TF-IDF + CNN)  
 > ⚖️ Debiased fake news dataset using TF-IDF + Naive Bayes + CNN layers.  
+> 🛠️ **Tech Stack:**  
+> ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FA7C00?style=flat&logo=scikit-learn&logoColor=white)  
+> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+> ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter)
+
 [🔗 View Project](https://colab.research.google.com/drive/1VmC5n7aAd1Kq_SacJsYg3hBx6MjNTxET?usp=sharing)
 
-#### 🧠 EEG Signal Processing with PyTorchEEG
+---
+
+#### 🧠 EEG Signal Processing with PyTorchEEG  
 > 🧪 Used DREAMERDataset to classify EEG signals. Exported to ONNX for real-time use.  
+> 🛠️ **Tech Stack:**  
+> ![PyTorch](https://img.shields.io/badge/PyTorch-EEG-red?style=flat&logo=pytorch)  
+> ![ONNX](https://img.shields.io/badge/ONNX-export-blue?style=flat&logo=onnx)  
+> ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)
+
 [🔗 View Project](https://colab.research.google.com/drive/1QYzbt_zX_pZO2LWkt_aumfYf9Maqb8Rn?usp=sharing)
 
-#### 🧾 Wikipedia NLP CLI Tool
+---
+
+#### 🧾 Wikipedia NLP CLI Tool  
 > 🧰 Built a command-line tool using Python Fire to extract and summarize Wikipedia entries.  
+> 🛠️ **Tech Stack:**  
+> ![Python](https://img.shields.io/badge/Python-Fire-yellow?style=flat&logo=python)  
+> ![CLI](https://img.shields.io/badge/Command--Line-App-lightgrey?style=flat)
+
 [🔗 View Project](https://github.com/Muhammadyousafrana/NLP_project_with_python_Fire)
 
 ---

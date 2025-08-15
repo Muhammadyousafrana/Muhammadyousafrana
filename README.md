@@ -33,9 +33,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammadyousafrana&show_icons=true&theme=github_dark" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gamma-five.vercel.app?user=Muhammadyousafrana&theme=dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyousafrana&layout=compact&theme=github_dark" />
 </p>
+[![GitHub Streak](https://github-readme-streak-stats-gamma-five.vercel.app?user=Muhammadyousafrana&theme=blue-green)](https://git.io/streak-stats)
 
 ---
 

@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammadyousafrana&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyousafrana&layout=compact&theme=github_dark" />
-  <img src="https://github-readme-streak-stats-gamma-five.vercel.app?user=Muhammadyousafrana&theme=blue-green" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-gamma-five.vercel.app/demo?user=Muhammadyousafrana&theme=blue-green" />
 </p>
 
 

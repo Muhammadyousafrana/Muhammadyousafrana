@@ -33,7 +33,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammadyousafrana&show_icons=true&theme=github_dark" />
-  <a href="https://git.io/streak-stats"><img src="https://myousafrana-github-readme-streak-st.vercel.app/?user=Muhammadyousafrana&theme=github-dark-blue" alt="GitHub Streak" /></a>
+<!--   <a href="https://git.io/streak-stats"><img src="https://myousafrana-github-readme-streak-st.vercel.app/?user=Muhammadyousafrana&theme=github-dark-blue" alt="GitHub Streak" /></a> -->
+  [![GitHub Streak](https://github-readme-streak-stats-gamma-five.vercel.app?user=Muhammadyousafrana&theme=dark)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyousafrana&layout=compact&theme=github_dark" />
 </p>
 

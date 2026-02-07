@@ -27,26 +27,6 @@
 - 📫 Reach me anytime: **yousaf.mlengineer@gmail.com**  
 - 🌐 Portfolio: [yousafrana.me](https://yousafrana.me/)  
 
----
-
-### 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadyousafrana&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyousafrana&layout=compact&theme=github_dark" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-25pq.vercel.app?user=Muhammadyousafrana&theme=blue-green" alt="GitHub Streak" />
-  </a>
-</p>
-
-
----
-
-### 🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Muhammadyousafrana&theme=darkhub&margin-w=15&no-frame=true" /> </p>
-
----
-
 ### 🎓 Certifications
 <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%26%20deeplearning.ai-blue?style=flat-square&logo=Coursera" /> <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-deeplearning.ai-green?style=flat-square&logo=Coursera" /> <img src="https://img.shields.io/badge/MLOps%20Specialization-Duke%20University-purple?style=flat-square&logo=Coursera" /> </p> <ul> <li>📘 <strong>Machine Learning Specialization</strong> – Offered by <em>Stanford University</em> and <em>deeplearning.ai</em>, taught by <strong>Andrew Ng</strong>. Covers foundational ML algorithms, model evaluation, and deployment practices.</li> <li>🧠 <strong>Deep Learning Specialization</strong> – A 5-course series by <em>deeplearning.ai</em>, focused on Neural Networks, CNNs, RNNs, and NLP, also led by <strong>Andrew Ng</strong>.</li> <li>🔧 <strong>MLOps Specialization</strong> – From <em>Duke University</em>. Focuses on the full ML lifecycle: data versioning, model deployment, CI/CD, and monitoring in production.</li> </ul>
 
